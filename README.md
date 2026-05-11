@@ -49,13 +49,13 @@ What Each Cell Does
 14.       Export analysis_results.csv and all figures to figures/
 
 ## Key Variables
-Column        Meaning
-W_PCT          Win percentage (target variable)
-EFG_PCT        Effective field goal % — predictor 1
-FG3A           Three-point attempts — predictor 2
-PACE           Possessions per 48 minutes
-OFF_RATING     Points scored per 100 possessions
-TS_PCT         True shooting percentage
+Meaning of each Column
+- W_PCT ->          Win percentage (target variable)
+- EFG_PCT ->       Effective field goal % — predictor 1
+- FG3A  ->         Three-point attempts — predictor 2
+- PACE  ->         Possessions per 48 minutes
+- OFF_RATING  ->   Points scored per 100 possessions
+- TS_PCT  ->       True shooting percentage
 
 ## Methodology
 The two predictors are compared on four independent measures:
